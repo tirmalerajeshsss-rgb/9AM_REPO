@@ -1,3 +1,4 @@
 welcome to git
 this file is for testing purpose 
+goodbye , this file is going to commit
 
